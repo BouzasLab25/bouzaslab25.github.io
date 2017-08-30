@@ -2,14 +2,6 @@
 
 # Basic
 name:               "Lab25"
-title:              "chcho"
-description:        "Unam"
-
-pemalink: pretty
-
-
-# URL
-url:                https://bouzaslab25.github.io/
-
-# Markdown
 markdown:           kramdown
+
+permalink: /blog/:year/:month/:day/:title
