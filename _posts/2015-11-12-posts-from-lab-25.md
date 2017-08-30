@@ -1,24 +1,28 @@
 ---
 layout: post
-title: V International Seminar about Behavior and Applications (SINCA)
+title: V International Seminar about Behavior and Applications (SINCA).
 date: 2015-11-12
 ---
 
 ### V International Seminar about Behavior and Applications (SINCA)
 
-Students from Lab25 participated in SINCA, Central Campus in Mexico City.
+Students from Lab25 participated in SINCA, at UNAM's Central Campus in Mexico City, with the following:
 
-Two Symposium were presented:
+Dr. Alejandro Segura participated as a guest speaker with the conference "Modeling cooperative environments: development and implementation of a new paradigm". 
 
-Comportamientos de Riesgo: Evaluación de Modelos de Elección 
+Symposium "Risk Behaviours: Assessment of Choice Models", by Chávez, Villalobos, Álvarez and Camacho.
 
-Aprendizajes Dinámicos
+Symposium "Dynamic Learning and Social Interaction", by Baroja, Trujano, Villarreal and Der Hagopian. 
 
-----
-![Alt text](/LabPictures/IMG_3731.JPG)
-
-----
-![Alt text](/LabPictures/IMG_3694.JPG)
+The younger members of Lab25 presented their work as posters. 
 
 ----
-![Alt text](/LabPictures/IMG_3683.JPG)
+![Alt text](/LabPictures/IMG_3731.jpg)
+
+----
+![Alt text](/LabPictures/IMG_3694.jpg)
+
+----
+![Alt text](/LabPictures/IMG_3683.jpg)
+
+

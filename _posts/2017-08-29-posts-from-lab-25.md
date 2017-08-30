@@ -9,11 +9,11 @@ date: 2017-08-25
 
 ____  
 
-![Alt text](/LabPictures/IMG_8237.JPG)
+![Alt text](/LabPictures/IMG_8237.jpg)
 
 ____  
 
-![Alt text](/LabPictures/IMG_8243.JPG)
+![Alt text](/LabPictures/IMG_8243.jpg)
 
 ____  
 

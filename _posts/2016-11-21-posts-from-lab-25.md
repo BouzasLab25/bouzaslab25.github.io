@@ -6,15 +6,16 @@ date: 2016-11-21
 
 ### Conferences in Boston, MA. 
 
-Several members of Lab25 went to Boston to present their works in poster. The presented works were the following. 
+Members of Lab25 presented their work as posters at the Psychonomic Society Annual Meeting, Object, Perception, Attention and Memory Annual Meeting, and at the Annual Conference for the Society of Judgment and Decision Making, which took place in Boston, MA.  
 
-- Felisa
-- Bajora
-- Manuel
-- Adriana
-- Elena 
+You can find these posters in the Publications tab. 
 
 ----
+
+William James Building at Harvard University... 
+
+Where it all began. 
+
 ![Alt text](/LabPictures/IMG_6081.JPG)
 
 ----

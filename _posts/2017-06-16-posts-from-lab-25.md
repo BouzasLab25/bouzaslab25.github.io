@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Bachelor's degree of Elena Villalobos 
+title: Thesis defense of Elena Villalobos 
 date: 2017-06-16
 ---
 
-### Bachelor's degree of Elena Villalobos 
+### Thesis defense of Elena Villalobos 
 
-Check out her thesis project: 
+Check out her thesis project <a class='link' href="http://132.248.9.195/ptd2017/mayo/309226352/Index.html"> here...</a>
 
 ____  
 
