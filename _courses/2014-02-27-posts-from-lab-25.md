@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: courses
 title: Dr. Michael Lee's first visit.
 date: 2014-02-27
 ---

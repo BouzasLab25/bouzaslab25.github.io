@@ -1,10 +1,13 @@
-# Lab25 Official Website
+# Lab25 Official website
 
-This is the lab webpage click on it!
+Welcome to the Lab25 webpage; Click on it!
 
 https://bouzaslab25.github.io/
 
 
+
+
+--------
 Para los del lab:
 
 Las carpetas de LabPictures, documents, presentations, images, es donde se agregan sus respectivos documentos. 
