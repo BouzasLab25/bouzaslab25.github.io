@@ -3,18 +3,6 @@ layout: default
 title: Lab25 Courses
 ---
 
-
-
-	<h2>{{ page.title }}</h2>
-	<ul class="posts">
-
-	  {% for course in site.courses %}
-	    <li><span>{{ course.date | date_to_string }}</span> » <a href="{{ course.url }}" title="{{ course.title }}">{{ course.title }}</a></li>
-	  {% endfor %}
-	</ul>
-
-	
-	
 	<div class="blurb">
 	<h3>About</h3>
 	<p>Lab25 is an important research center in Cognitive and Behavioural Sciences, located in the Central Campus of the National Autonomous University of Mexico (UNAM), in Mexico City.</p>
@@ -25,3 +13,12 @@ title: Lab25 Courses
 	<p>More specifically, our areas of interest are: Learning, Game Theory, Risky choice, Intertemporal Choice, Perception, Bayesian Cognitive Modeling, Categorization, among others. </p>
 	
 	</div><!-- /.blurb -->
+
+
+	<h2>{{ page.title }}</h2>
+	<ul class="posts">
+
+	  {% for course in site.courses %}
+	    <li><span>{{ course.date | date_to_string }}</span> » <a href="{{ course.url }}" title="{{ course.title }}">{{ course.title }}</a></li>
+	  {% endfor %}
+	</ul>
