@@ -12,13 +12,14 @@ Members from Lab25 participated in SINCA VI, at Tlaxcala, Tlaxcala.
 ____  
 
 ![Alt text](/LabPictures/IMG_8626.JPG)
-
 **Lab 25 at the Autonomous University of Tlaxcala**
+
+
 ____  
 
 ![Alt text](/LabPictures/IMG_8581 2.JPG)
 
-**Dr. Arturo Bouzas on his masterly conference "Adaptación a entornos volátiles e inciertos"** *(Adaptation to volatile and uncertain environments)*, **acknowledging his students**
+**Dr. Arturo Bouzas on his masterly conference "Adaptación a entornos volátiles e inciertos" (Adaptation to volatile and uncertain environments), acknowledging his students**
 
 
 ____  
@@ -27,7 +28,7 @@ ____
 
 **Symposium: Modelos de adaptabilidad en entornos dinámicos: Estudios sobre detección, preferencias y probabilidad** 
 
-*(Models of adaptability to dynamic environments: Studies about detection, preferences and probability)*
+*(Translated as: Models of adaptability to dynamic environments: Studies about detection, preferences and probability)*
 
 
 ____  
@@ -36,7 +37,7 @@ ____
 
 **Symposium: Adaptabilidad del comportamiento a restricciones temporales y probabilísticas**
 
-*(Behavioral adaptability to temporal and probabilistic restrictions).*
+*(Translated as: Behavioral adaptability to temporal and probabilistic restrictions).*
 
 
 
