@@ -21,6 +21,8 @@ ____
 
 ![Alt text](/LabPictures/IMG_8597.JPG)
 
+**Symposium: Modelos de adaptabilidad en entornos dinámicos: Estudios sobre detección, preferencias y probabilidad** 
+*(Models of adaptability to dynamic environments: Studies about detection, preferences and probability)*
 ____  
 
 ![Alt text](/LabPictures/IMG_8616.JPG)
