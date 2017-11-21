@@ -1,7 +1,7 @@
 ---
 layout: post
 title: VI SINCA (International Seminar about Behavior and Applications)
-date: 2017-08-25
+date: 2017-11-14
 ---
 
 ### VI SINCA (International Seminar about Behavior and Applications)
