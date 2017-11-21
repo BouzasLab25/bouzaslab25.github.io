@@ -12,6 +12,7 @@ Members from Lab25 participated in SINCA VI, at Tlaxcala, Tlaxcala.
 ____  
 
 ![Alt text](/LabPictures/IMG_8626.JPG)
+
 **Lab 25 at the Autonomous University of Tlaxcala**
 
 
@@ -19,7 +20,7 @@ ____
 
 ![Alt text](/LabPictures/IMG_8581 2.JPG)
 
-**Dr. Arturo Bouzas on his masterly conference "Adaptación a entornos volátiles e inciertos" (Adaptation to volatile and uncertain environments), acknowledging his students**
+**Dr. Arturo Bouzas on his masterly conference "Adaptación a entornos volátiles e inciertos" (Adaptation to volatile and uncertain environments), acknowledging all of his students at the Lab.**
 
 
 ____  
