@@ -13,9 +13,13 @@ ____
 
 ![Alt text](/LabPictures/IMG_8626.JPG)
 
+**Lab 25 at the Autonomous University of Tlaxcala**
 ____  
 
 ![Alt text](/LabPictures/IMG_8581 2.JPG)
+
+**Dr. Arturo Bouzas on his masterly conference "Adaptación a entornos volátiles e inciertos"** *(Adaptation to volatile and uncertain environments)*, **acknowledging his students**
+
 
 ____  
 
@@ -29,4 +33,10 @@ ____
 ____  
 
 ![Alt text](/LabPictures/IMG_8616.JPG)
+
+**Symposium: Adaptabilidad del comportamiento a restricciones temporales y probabilísticas**
+
+*(Behavioral adaptability to temporal and probabilistic restrictions).*
+
+
 
