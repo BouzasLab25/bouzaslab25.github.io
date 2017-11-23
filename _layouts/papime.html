@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+		<meta charset="UTF-8">
+	{% seo %}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+		<link rel="icon" href="http://adrifelcha.github.io/BlackBunny.png">
+			<title>{{ page.title }}</title>
+						
+		</head>
+		<body>
+			<div class="container">
+			
+			{{ content }}
+			
+			</div><!-- /.container -->
+			<footer>
+	    		<ul>
+	        		<li><a href="mailto:adrifelcha@gmail.com">email</a></li>
+	        		<li><a href="https://github.com/Adrifelcha">github.com/Adrifelcha</a></li>
+				</ul>
+			</footer>
+		</body>
+	</html>
