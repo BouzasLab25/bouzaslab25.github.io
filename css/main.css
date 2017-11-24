@@ -64,12 +64,11 @@ p {
 }
 
 h1 {
-    font-size: 2em;
+    font-size: 3em;
     font-family:'Couries New', 'Courier', 'monospace';
     text-align:center;
+    border-bottom: 1px solid #d5d5d5;
 }
-
-
 h2 {
     font-size: 1.5em;
     font-family:'Couries New', 'Courier', 'monospace';
@@ -83,15 +82,13 @@ h3 {
     margin-top: 50px;
     margin-bottom: 50px;  
 }
-
 h4 {
     font-size: 1.2em;
     font-family:'Couries New', 'Courier', 'monospace';
-    text-align:center;
+    text-align:left;
     margin-top: 40px;
     margin-bottom: 40px;  
 }
-
 h5 {
     font-size: 1.4em;
     font-family:'Couries New', 'Courier', 'monospace';
