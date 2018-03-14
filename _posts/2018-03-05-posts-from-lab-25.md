@@ -4,7 +4,7 @@ title: Michael Lee visits our Lab, for the third time!
 date: 2018-03-05
 ---
 
-### Michael Lee's visit to Lab 25 (2018 Edition!)
+### "Michael Lee visits Lab 25" (2018 Edition!)
 
 ____  
 
