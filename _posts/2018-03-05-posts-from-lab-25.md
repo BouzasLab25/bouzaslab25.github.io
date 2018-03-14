@@ -8,5 +8,5 @@ date: 2018-03-05
 
 ____  
 
-![Alt text](/LabPictures/Michael_Visit2018_.jpg)
+![Alt text](/LabPictures/MichaelLee_Visit2018.jpg)
 
