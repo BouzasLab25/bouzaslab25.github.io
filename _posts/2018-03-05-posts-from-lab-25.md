@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Michael Lee visits our Lab  (PART III)
+title: Michael Lee visits our Lab  (2018 Ed.)
 date: 2018-03-05
 ---
 
