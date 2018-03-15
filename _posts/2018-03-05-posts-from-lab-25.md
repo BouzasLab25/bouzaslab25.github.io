@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Michael Lee visits our Lab, for the third time!
+title: Michael Lee visits our Lab, PART III
 date: 2018-03-05
 ---
 
