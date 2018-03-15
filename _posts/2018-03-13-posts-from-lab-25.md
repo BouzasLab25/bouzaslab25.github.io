@@ -7,6 +7,7 @@ date: 2018-03-13
 ### Felisa's thesis defense
 
 On March 13th, 2018, Felisa got her B.A. in Psychology by defending her thesis "Studies on Signal Detection".
+
 ____  
 
 ![Alt text](/LabPictures/Fel_Ex2.jpg)
@@ -24,4 +25,4 @@ ____
 
 ![Alt text](/LabPictures/Fel_Ex1.jpg)
 
-Felisa and her I'm-not-an-undergrad-anymore smile!
+Felisa and her I'm-glad-I-didn't-die-out-of-anxiety-today smile!
