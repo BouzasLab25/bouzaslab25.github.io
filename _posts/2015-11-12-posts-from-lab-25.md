@@ -1,6 +1,6 @@
 ---
 layout: post
-title: V International Seminar about Behavior and Applications (SINCA).
+title: V SINCA (International Seminar about Behavior and Applications)
 date: 2015-11-12
 ---
 
