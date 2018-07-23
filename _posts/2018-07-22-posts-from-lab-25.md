@@ -10,7 +10,7 @@ On July 22th, 2018, Carlos (Carlos Velázquez Vargas) participated at the <b>Mat
 
 ____  
 
-![Alt text](/LabPictures/Carlos_Conf.jpg)
+![Alt text](/LabPictures/Carlos_Conf.jpeg)
 
 This picture was taken by our dear friend Michael Lee
 ____  
