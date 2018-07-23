@@ -4,7 +4,7 @@ title: Carlos' conference at MathPsych/ICCM 2018
 date: 2018-07-22
 ---
 
-### Felisa's thesis defense
+### Carlos' conference at MathPsych/ICCM 2018
 
 On July 22th, 2018, Carlos (Carlos Velázquez Vargas) gave a conference 
 
