@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Conferences in Boston, MA. 
+title: Poster presentations in Boston, MA. 
 date: 2016-11-21
 ---
 
-### Conferences in Boston, MA. 
+### Poster presentations in Boston, MA. 
 
 Members of Lab25 presented their work as posters at the Psychonomic Society Annual Meeting, Object, Perception, Attention and Memory Annual Meeting, and at the Annual Conference for the Society of Judgment and Decision Making, which took place in Boston, MA.  
 
