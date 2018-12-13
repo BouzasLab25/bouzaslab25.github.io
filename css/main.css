@@ -9,8 +9,7 @@ nav ul, footer ul {
     padding: 20px;
     font-size:1.2em;
     list-style: none;
-    text-align:center;
-    
+    text-align:center; 
 }
 
 nav ul li, footer ul li {
