@@ -184,14 +184,12 @@ ul.posts li {
     list-style: none;
 }
 
-
-
-
-
-
-
-
-
+article {
+    margin-left: 400px;
+    padding: 1em;
+    height: 10px;
+    overflow: hidden;
+   }
 
 hr.style1{
 	border-top: 1px solid #8c8b8b;
