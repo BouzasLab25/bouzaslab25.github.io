@@ -6,14 +6,9 @@ date: 2018-10-22
 
 ### Poster presentations at Los Angeles
 
-On July 22th, 2018, Carlos attended the <b>MathPsych/ICCM 2018</b> (<i>51st Society for Mathematical Psychology & 16th International Conference on Cognitive Modelling Meetings</i>) to participate in a conference named after his thesis project "Velocity of change in the environment in the delta-rule model of reinforcement".
+On October 2018, some of the members of Lab25 traveled to Los Angeles to present their works as posters (José Luis Baroja - Elena Villalobos) and in a conference (Manuel Villarreal)
 
-The conference was held at the State Room of the University of Wisconsin in Madison, USA.
-
+The list of the materials presented during this Meeting (and the materials itself) are available in the "Publications" tab!
 ____  
 
-![Alt text](/LabPictures/Carlos_Conf.jpeg)
-
-This picture was taken by Lab25's dearest friend Michael Lee, who was also at the MathPsych/ICCM meeting.
-
-____  
+ 
