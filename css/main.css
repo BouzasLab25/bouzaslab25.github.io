@@ -12,6 +12,11 @@ nav ul, footer ul {
     text-align:center; 
 }
 
+title{
+font-family:fantasy;
+font-size:3em;
+}
+
 nav ul li, footer ul li {
     display: inline;
     margin-right: 30px;
