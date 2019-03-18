@@ -1,8 +1,10 @@
 body {
-    margin: 60px auto;
+    margin-left: 70px;
+    margin-right: 70px;
     width: 70%;
-    background-color: #fffffd;;
+    background-color: #fffffd;
 }
+
 
 nav ul, footer ul {
     font-family:'Couries New', 'Courier', 'monospace';
