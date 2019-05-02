@@ -9,4 +9,22 @@ date: 2019-04-23
 
 ____  
 
- 
+![Alt text](/LabPictures/Green_1.png)
+
+____    
+
+![Alt text](/LabPictures/Green_2.png)
+
+____  
+
+![Alt text](/LabPictures/Green_3.png)
+
+____  
+
+![Alt text](/LabPictures/Green_4.png)
+
+____  
+
+![Alt text](/LabPictures/Green_5.png)
+
+____  
