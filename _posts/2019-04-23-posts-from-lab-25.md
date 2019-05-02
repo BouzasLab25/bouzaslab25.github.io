@@ -7,6 +7,10 @@ date: 2019-04-23
 ### Presentations session with Dr. Leonard Green
 
 
+
+
+On April 22nd, members of Lab25 had the opportunity to present their works to Dr. Leonard Green, from the University of Washington in Saint Louis.
+
 ____  
 
 ![Alt text](/LabPictures/Green_1.png)
