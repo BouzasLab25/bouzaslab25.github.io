@@ -8,4 +8,16 @@ date: 2019-03-24
 
 ____  
 
+![Alt text](/LabPictures/Lab25_UCI_1.png)
+
+____  
+
+![Alt text](/LabPictures/Lab25_UCI_2.png)
+
+____  
+
+![Alt text](/LabPictures/Lab25_UCI_3.png)
+
+____  
+
  
