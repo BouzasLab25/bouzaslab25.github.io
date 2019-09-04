@@ -14,4 +14,4 @@ Diana Álvarez started a PhD at the University of Arizona
 Carlos Velázquez started a PhD in Psychology at Princeton University.
 
 ----
-![Alt text](/LabPictures/Lab25_Farewwell-2019.jpg)
+![Alt text](/LabPictures/Lab25_Farewwell-2019.jpeg)
