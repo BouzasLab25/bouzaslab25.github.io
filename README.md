@@ -12,9 +12,9 @@ Para facilitar la administración del sitio, les dejo instrucciones más precisa
 
 **CARPETAS ESENCIALES** 
 **1.- "_layouts"_**
-Esta es la carpeta donde se vacían los "templates" o el diseño general de la página. Básicamente, por cada ventana que añadimos a la página no es necesario que especifiquemos todo el environment, basta con que llamemos el layout correspondiente y nos concentremos en únicamente especificar el contenido a imprimir en el espacio {{content}}.
+Esta es la carpeta donde se vacían los "templates" o el diseño general de la página. Básicamente, por cada ventana que añadimos a la página no es necesario que especifiquemos todo el environment, basta con que llamemos el layout correspondiente y nos concentremos en únicamente especificar el contenido a imprimir en el espacio {{content}}. &nbsp  
 **2.- css**
-Contiene el _Cascading Style Sheet_ donde se detallan las características de los objetos a crear a lo largo de la página. El archivo "main.css" es llamado como referente principal a lo largo de los distintos layouts creados. Recuerden que para hacer una especificación distinta a la contenida en el css, pueden hacerlo al interior de <style></style> en el archivo layout que estén editando.
+Contiene el _Cascading Style Sheet_ donde se detallan las características de los objetos a crear a lo largo de la página. El archivo "main.css" es llamado como referente principal a lo largo de los distintos layouts creados. Recuerden que para hacer una especificación distinta a la contenida en el css, pueden hacerlo al interior de <style></style> en el archivo layout que estén editando.&nbsp  
 
 **CARPETAS FUNCIONALES**
 **3.- "events"**
