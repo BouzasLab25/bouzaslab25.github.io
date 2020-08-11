@@ -33,7 +33,7 @@ Documentos varios (CSV, capítulos, etc) a referir a lo largo de la página (por
 3.- Presentations  
 Posters y presentaciones utilizadas durante nuestras participaciones en congresos (en formato pdf)  
 4.- Images  
-Fotografías a usar en los perfiles de cada quien  
+Fotografías a usar en el perfil de cada miembro del Lab. **Es importante cuidar el tamaño de las fotos, para que no sean demasiado grandes. Siempre es cosa de hacer pruebas**
 
 B) Segmentando el sitio web  
 1.- Posts  
@@ -41,7 +41,9 @@ Como ya se mencionó, contiene un archivo .md por cada entrada a agregar al blog
 2.- About  
 Contiene el archivo "index.html" a imprimirse cuando alguien hace click en la ventana "About" desde el menú principal.  
 3.- People  
+Contiene dos tipos de archivos : **1)** Un archivo .html para cada miembro del Lab, utilizando el Layout "Perfil" para imprimir la información de cada uno de nosotros (Cargando la fotografía correspondiente de la carpeta Images y los CSV y otros archivos adjuntos de Documents) **2)** Los archivos para navegar a través de los perfiles. El primero de ellos es "index.html" que es el que se muestra por default al ir al Menú "Miembros", lo único que hace es imprimir en una cuadrícula de 3 columnas, las fotografías de cada uno de los miembros del lab y el enlace a su propio perfil; Los archivos "collaborators.html" y "alumni.html" cumplen funciones similares, pero corresponden al menú que se despliega cuando clickeamos en el submenú correspondiente.
 4.- Publications  
+Contiene el archivo "index.html" a imprimirse cuando alguien hace click en la ventana "Publicaciones" desde el menú principal. Es sólamente una lista, con títulos y bullets, de todos los productos del Lab.
 
 
  
