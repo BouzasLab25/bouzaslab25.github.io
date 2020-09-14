@@ -1,0 +1,19 @@
+---
+layout: default
+title:  Coordinadora ACA
+---
+			
+<h3>Profesor</h3>
+  <div class="one" >
+   <p><a class='lu' href="/people/arturo.html">Dr. Arturo Bouzas</a></p>
+	  <a href="/people/arturo.html"><img class="displayed" src="/images/arturo.jpg" /></a>
+  </div>
+
+<hr class="style14">
+
+<h3>Coordinadora</h3>
+<h4>Karina Ruiz</h4>
+<p> <a class='link' href="mailto:kary30041996@gmail.com"><i class='fa fa-envelope-o'></i> Karina Ruiz </a> </p>
+<a class='link' href="https://www.youtube.com/channel/UCcXtwZWLpNipZyB2dtC1ueg/featured" target="_blank"> Vídeo de presentación </p>
+
+  
