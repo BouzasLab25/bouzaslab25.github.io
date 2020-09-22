@@ -5,15 +5,18 @@ background-color:rgba(255,0,0,0.1);
 position:absolute;
 top:0;
 left:0;
-  display:flex;
+ display:flex;
+animation: modal 2s 3s forwards;
+visibility: hidden;
+opacity:0;
 }
+
 .contenido{
 margin:auto;
 width:40%;
 height:40%;
 background-color:white;
 border-radius:10px;
-  
   
 }
 
@@ -22,5 +25,31 @@ display:none;
   }
 
 #cerrar+label{
-position:absolute;
+position:fixed;
+color: #fff;
+font-size:25px;
+z-index:50;
+background-color:darkred;
+height:40px;
+width:40px;
+line-height:40px;
+border-radius:50%;
+right:10px;
+cursor:pointer;
+animation: modal 2s 3s forwards;
+visibility: hidden;
+opacity:0;
   }
+
+#cerrar:checked + label,#cerrar:checked ~ .modal{
+display:none;
+} 
+
+@keyframes modal{
+  100%{
+    visibility:visible;
+    opacity:1;
+  
+  }
+}
+
