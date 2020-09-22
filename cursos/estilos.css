@@ -6,7 +6,6 @@ height:100vh;
 background-color:black;
 position:absolute;
 top:0;
-left:0;
 display:flex;
 animation: modal 1s 1s forwards;
 visibility: hidden;
