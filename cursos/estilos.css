@@ -27,7 +27,7 @@ display:none;
   }
 
 #cerrar + label{
-position:fixed;
+position:absolute;
 color: #fff;
 font-size:25px;
 z-index:50;
