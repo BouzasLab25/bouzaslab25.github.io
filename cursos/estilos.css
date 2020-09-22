@@ -6,7 +6,7 @@ position:absolute;
 top:0;
 left:0;
  display:flex;
-animation: modal 2s 3s forwards;
+animation: modal 2s 0s forwards;
 visibility: hidden;
 opacity:0;
 }
@@ -36,7 +36,7 @@ line-height:40px;
 border-radius:50%;
 right:10px;
 cursor:pointer;
-animation: modal 2s 3s forwards;
+animation: modal 2s 0s forwards;
 visibility: hidden;
 opacity:0;
   }
