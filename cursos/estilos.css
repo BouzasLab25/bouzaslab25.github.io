@@ -4,6 +4,12 @@ height:100vh;
 background:rgba(0,0,0,0.8);
 position:absolute;
 
-
-
 }
+
+#cerrar{
+display:none;
+  }
+
+#cerrar+label{
+position:absolute;
+  }
