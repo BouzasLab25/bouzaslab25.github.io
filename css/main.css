@@ -454,4 +454,26 @@ hr.about-rule {
     font-size: 1em;
 }
 
+/* Teaching page styles */
+.resource-link {
+    margin: 40px 0;
+    text-align: center;
+}
+
+.teaching-link {
+    font-size: 1.3em;
+    color: #4169E1;
+    text-decoration: none;
+    padding: 10px 20px;
+    border: 2px solid #4169E1;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+}
+
+.teaching-link:hover {
+    background-color: #4169E1;
+    color: white;
+    text-decoration: none;
+}
+
 
