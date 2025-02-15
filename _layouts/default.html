@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 	<html>
 		<head>
@@ -24,7 +23,7 @@
 	z-index: 4;
 	width:170px;}
 .mainnav li{
-	float: left;
+	float: left;		
 	padding: 2px;
 	background: black;
 	color: white;
@@ -56,60 +55,58 @@
 		
 		<body>
 
-			 
-<ul class="mainnav">
-  <li><a href="/" style="color:white;text-decoration: none;">HOME</a></li>
-  <li><a href="/about/" style="color:white;text-decoration: none;">About</a></li>
+			<header class="site-header">
+				<div class="header-content">
+					<h1 class="site-title">Lab 25</h1>
+					<h2 class="site-subtitle">Laboratorio de comportamiento adaptable</h2>
+					<nav class="site-nav">
+						<ul class="mainnav">
+							<li><a href="/" style="color:white;text-decoration: none;">HOME</a></li>
+							<li><a href="/about/" style="color:white;text-decoration: none;">About</a></li>
+							<li class="hassubs"><a href="/publications/" style="color:white;text-decoration: none;">Publications</a>
+								<ul class="dropdown">
+									<li class="subs"><a href="/publications/">Projects</a></li>
+									<li class="subs"><a href="/publications/index.html#Papers">Papers</a></li>
+									<li class="subs"><a href="/publications/index.html#Chapters">Chapters</a></li>
+									<li class="subs"><a href="/publications/index.html#Conferences">Conferences and presentations</a></li>
+									<li class="subs"><a href="/publications/index.html#Symposia">Symposia</a></li>
+									<li class="subs"><a href="/publications/index.html#Posters">Posters</a></li>
+									<li class="subs"><a href="/publications/index.html#Thesis">Thesis</a></li>
+								</ul>
+							</li>
+							<li class="hassubs"><a href="/people/" style="color:white;text-decoration: none;">People</a></button>
+							<ul class="dropdown">
+								<li class="subs"><a href="/people/arturo.html">Arturo Bouzas</a></li>
+								<li class="subs"><a href="/people/">Members</a></li>
+								<li class="subs"><a href="/people/collaborators.html">Collaborators</a></li>
+								<li class="subs"><a href="/people/alumni.html">Alumni</a></li>
+							</ul>
+							</li>
+							<li><a href="/events/" style="color:white;text-decoration: none;">Events</a></li>
+							<li class="hassubs"><a href="/collabs/Bouzas-Lee.html" style="color:white;text-decoration: none;">Collaborations</a>
+								<ul class="dropdown">
+									<li class="subs"><a href="/collabs/Bouzas-Lee.html">Michael Lee!!</a></li>
+								</ul>
+							</li>
+							<li class="hassubs"><a href="/cursos/" style="color:white;text-decoration: none;">Cursos</a></button>
+							<ul class="dropdown">
+								<li class="subs"><a href="/cursos/ACAII.html">ACA II</a></li>
+								<li class="subs"><a href="/cursos/ACAIII.html">ACA III</a></li>
+							</ul>
+							</li>		
+						</ul>
+					</nav>
+				</div>
+			</header>
 
-  <li class="hassubs"><a href="/publications/" style="color:white;text-decoration: none;">Publications</a>
-     	<ul class="dropdown">
-		<li class="subs"><a href="/publications/">Projects</a></li>
-		<li class="subs"><a href="/publications/index.html#Papers">Papers</a></li>
-		<li class="subs"><a href="/publications/index.html#Chapters">Chapters</a></li>
-    		<li class="subs"><a href="/publications/index.html#Conferences">Conferences and presentations</a></li>
-		<li class="subs"><a href="/publications/index.html#Symposia">Symposia</a></li>
-		<li class="subs"><a href="/publications/index.html#Posters">Posters</a></li>
-		<li class="subs"><a href="/publications/index.html#Thesis">Thesis</a></li>
-	</ul>
-  </li>
-   	<li class="hassubs"><a href="/people/" style="color:white;text-decoration: none;">People</a></button>
-	<ul class="dropdown">
-		<li class="subs"><a href="/people/arturo.html">Arturo Bouzas</a></li>
-		<li class="subs"><a href="/people/">Members</a></li>
-		<li class="subs"><a href="/people/collaborators.html">Collaborators</a></li>
-		<li class="subs"><a href="/people/alumni.html">Alumni</a></li>
-	</ul>
-   	</li>
-  <li><a href="/events/" style="color:white;text-decoration: none;">Events</a></li>
-  <li class="hassubs"><a href="/collabs/Bouzas-Lee.html" style="color:white;text-decoration: none;">Collaborations</a>
-	<ul class="dropdown">
-	<li class="subs"><a href="/collabs/Bouzas-Lee.html">Michael Lee!!</a></li>
-	</ul>
-  </li>
-   	<li class="hassubs"><a href="/cursos/" style="color:white;text-decoration: none;">Cursos</a></button>
-	<ul class="dropdown">
-		<li class="subs"><a href="/cursos/ACAII.html">ACA II</a></li>
-		<li class="subs"><a href="/cursos/ACAIII.html">ACA III</a></li>
-	</ul>
-   	</li>		
-</li></ul>
+			<main class="container">
+				{{ content }}
+			</main>
 
-			<br><br>
-		<center>
-				<h1 style="font-family:'Georgia'">Lab 25</h1> </center>
-			</center>
-			<div class="container">
-
-
-			
-			{{ content }}
-			
-			</div>
-				<!-- /.container -->
 			<footer>
 				<hr class="style2">
-	    		<ul>
-				<li><a href="https://github.com/BouzasLab25"><i class="fa fa-github"></i> github.com/BouzasLab25</a></li>
+				<ul>
+					<li><a href="https://github.com/BouzasLab25"><i class="fa fa-github"></i> github.com/BouzasLab25</a></li>
 				</ul>
 			</footer> 	
 		</body>
