@@ -424,7 +424,7 @@ hr.about-rule {
 
 /* Meetings page styles */
 .meetings-container {
-    max-width: 800px;
+    max-width: 1050px;  /* Increased from 800px to match About section */
     margin: 50px auto;
     padding: 0 20px;
 }
