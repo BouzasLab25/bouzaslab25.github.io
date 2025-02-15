@@ -390,8 +390,21 @@ hr.style18:before {
 
 /* Remove the white border */
 .mainnav {
-  margin: 0;
-  padding: 10px 0;
+  float: none;  /* Remove float */
+  display: inline-block;  /* Allow for centering */
+  margin: 0 auto;
+  position: relative;
+  left: 50%;  /* Center adjustment */
+  transform: translateX(-50%);  /* Center adjustment */
+}
+
+.mainnav li {
+  float: left;
+  padding: 2px;
+  background: black;
+  color: white;
+  border-left: 1px dotted #fff;
+  list-style: none;
 }
 
 /* Custom style for About section title */
