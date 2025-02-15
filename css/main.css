@@ -394,4 +394,22 @@ hr.style18:before {
   padding: 10px 0;
 }
 
+/* Custom style for About section title */
+h3.about-title {
+    font-size: 2.2em;  /* Slightly larger than standard h3 */
+    font-family:'Couries New', 'Courier', 'monospace';
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+/* Custom horizontal rule for About section */
+hr.about-rule {
+    width: 1050px;  /* Increased from 150px */
+    margin: 20px auto 40px;  /* Top, horizontal, bottom margins */
+    border: 0;
+    height: 2px;
+    background: linear-gradient(to right, transparent, #000, transparent);
+}
+
 
