@@ -412,4 +412,46 @@ hr.about-rule {
     background: linear-gradient(to right, transparent, #000, transparent);
 }
 
+.meeting-description a {
+    color: #333;
+    text-decoration: none;
+}
+
+.meeting-description a:hover {
+    color: #4169E1;  /* Change color on hover */
+    text-decoration: underline;
+}
+
+/* Meetings page styles */
+.meetings-container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 0 20px;
+}
+
+.meeting-list {
+    margin-top: 40px;
+}
+
+.meeting-item {
+    margin: 40px 0;
+    text-align: center;
+    font-family: 'Couries New', 'Courier', 'monospace';
+    font-size: 1em;
+    line-height: 1.5;
+}
+
+.meeting-year {
+    font-weight: bold;
+    color: #000;
+    display: block;
+    margin-bottom: 10px;
+    font-size: 1.2em;
+}
+
+.meeting-description {
+    color: #333;
+    font-size: 1em;
+}
+
 
