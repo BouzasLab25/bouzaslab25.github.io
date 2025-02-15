@@ -163,11 +163,12 @@ div.right {
   width: 30%;
 }
 
-li.ho{
+li.ho {
     font-size: 1.2em;
     font-family:'Couries New', 'Courier', 'monospace';
     line-height: 1.1em;
     color: #333;
+    margin-bottom: 1em;
 }
 
 
