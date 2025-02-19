@@ -530,4 +530,87 @@ hr.about-rule {
     text-decoration: none;
 }
 
+/* PI section styles */
+.pi-container {
+    text-align: center;
+    margin: 40px 0;
+    padding-bottom: 30px;  /* Add space for the border */
+    border-bottom: 2px dotted #000;  /* Add dotted border */
+    margin-bottom: 30px;  /* Space between border and buttons */
+}
+
+.pi-name {
+    margin-top: 15px;
+    margin-bottom: 5px;
+    font-size: 1.2em;
+    font-family: 'Couries New', 'Courier', 'monospace';
+}
+
+.pi-title {
+    margin: 0;
+    color: #4A4A4A;  /* Dark gray */
+    font-size: 1.1em;
+    font-family: 'Couries New', 'Courier', 'monospace';
+}
+
+/* People buttons styles */
+.people-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin: 40px 0;
+}
+
+.people-button {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 180px;
+    height: 70px;
+    background-color: white;  /* Changed to white background */
+    color: black;  /* Changed to black text */
+    text-decoration: none;
+    padding: 12px;
+    border-radius: 35px;
+    transition: all 0.3s ease;
+    font-size: 1.2em;
+    letter-spacing: 0.5px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    font-family: 'Georgia', serif;
+    font-weight: bold;
+    border: 3px solid black;  /* Added thick black border */
+}
+
+.people-button:hover {
+    background-color: #f0f0f0;  /* Light gray on hover */
+    color: black;
+    text-decoration: none;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+/* Style for the active/current page button */
+.people-button.active {
+    background-color: black;
+    color: white;
+}
+
+.people-button.active:hover {
+    background-color: #333;
+    color: white;
+}
+
+.people-button span {
+    display: block;
+    text-align: center;
+    line-height: 1.4;
+    font-family: 'Georgia', serif;
+    font-weight: bold;
+}
+
+.people-button span:first-child {
+    margin-bottom: 3px;
+}
+
 
