@@ -691,4 +691,27 @@ hr.about-rule {
     letter-spacing: 0.5px;  /* Slight letter spacing */
 }
 
+/* Add styles for contact links */
+.contact-links {
+    margin-top: 15px;
+    text-align: left;
+}
+
+.contact-links a {
+    color: #666;
+    text-decoration: none;
+    margin-right: 15px;
+    transition: color 0.3s ease;
+}
+
+.contact-links a:hover {
+    color: #000;
+    text-decoration: underline;
+}
+
+.contact-links span.separator {
+    color: #999;
+    margin: 0 5px;
+}
+
 
