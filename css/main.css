@@ -618,7 +618,16 @@ hr.about-rule {
     text-align: center;
     font-family: 'Georgia', serif;
     margin: 40px 0;
-    color: #333;
+    color: #000;  /* Changed to black */
+    font-size: 2.5em;  /* Increased size */
+    font-weight: bold;  /* Made bold */
+    text-transform: uppercase;  /* Made uppercase */
+    letter-spacing: 2px;  /* Added letter spacing */
+    border-bottom: 3px solid #000;  /* Added bottom border */
+    padding-bottom: 15px;  /* Added padding above border */
+    max-width: 800px;  /* Limit width of border */
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .students-table {
@@ -666,6 +675,20 @@ hr.about-rule {
     color: #333;
     font-size: 1.1em;
     text-align: left;
+}
+
+/* Section subtitle styles */
+.section-subtitle {
+    text-align: center;
+    font-family: 'Georgia', serif;
+    color: #333;  /* Slightly darker gray */
+    font-size: 1.5em;  /* Larger font */
+    font-style: italic;
+    margin-top: -20px;
+    margin-bottom: 40px;
+    font-weight: 500;  /* Semi-bold */
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.1);  /* Subtle shadow */
+    letter-spacing: 0.5px;  /* Slight letter spacing */
 }
 
 
