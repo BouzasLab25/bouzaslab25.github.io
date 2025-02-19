@@ -613,4 +613,59 @@ hr.about-rule {
     margin-bottom: 3px;
 }
 
+/* Students table styles */
+.section-title {
+    text-align: center;
+    font-family: 'Georgia', serif;
+    margin: 40px 0;
+    color: #333;
+}
+
+.students-table {
+    width: 100%;
+    max-width: 1050px;
+    margin: 0 auto;
+}
+
+.student-row {
+    display: flex;
+    margin-bottom: 60px;
+    padding-bottom: 30px;
+    border-bottom: 1px dotted #ccc;
+}
+
+.student-photo {
+    width: 300px;
+    flex-shrink: 0;
+    margin-right: 40px;
+}
+
+.student-photo img {
+    width: 100%;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.student-info {
+    flex-grow: 1;
+    padding-top: 10px;
+    text-align: left;
+}
+
+.student-info h4 {
+    margin: 0 0 15px 0;
+    font-family: 'Georgia', serif;
+    font-size: 2em;
+    color: #000;
+    font-weight: bold;
+}
+
+.student-info p {
+    margin: 8px 0;
+    line-height: 1.6;
+    color: #333;
+    font-size: 1.1em;
+    text-align: left;
+}
+
 
