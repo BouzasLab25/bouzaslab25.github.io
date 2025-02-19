@@ -1,0 +1,34 @@
+---
+layout: default
+---
+
+<div class="meetings-container">
+    <h3 class="about-title">Members of Lab25</h3>
+    <hr class="about-rule">
+    
+    <div class="pi-container">
+        <img class="displayed" src="/images/arturo.jpg" alt="Dr. Arturo Bouzas">
+        <p class="pi-name">Dr. Arturo Bouzas Riaño</p>
+        <p class="pi-title"><strong>Principal Investigator</strong></p>
+    </div>
+    
+    <div class="people-buttons">
+        <a href="/people/index.html" class="people-button {% if page.url contains 'index' or page.url == '/people/' %}active{% endif %}">
+            <span>Current</span>
+            <span>Students</span>
+        </a>
+        <a href="/people/graduated.html" class="people-button {% if page.url contains 'graduated' %}active{% endif %}">
+            <span>Graduated</span>
+            <span>Students</span>
+        </a>
+        <a href="/people/collaborators.html" class="people-button {% if page.url contains 'collaborators' %}active{% endif %}">
+            <span>External</span>
+            <span>Collaborators</span>
+        </a>
+    </div>
+    
+    <!-- Debug URL -->
+    <!-- <p style="color: gray; font-size: 0.8em;">Debug URL: {{ page.url }}</p> -->
+    
+    {{ content }}
+</div> 
